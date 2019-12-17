@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Pictures">
+        <file>Statek_Small.jpg</file>
+    </qresource>
+</RCC>
